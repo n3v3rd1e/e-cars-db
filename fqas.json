@@ -1,5 +1,5 @@
 {
-	"title": "\n        Frequently asked questions\n      ",
+	"title": "Frequently asked questions",
 	"pt-6": [
 		{
 			"question": "Does it still work?",
@@ -10,8 +10,8 @@
 			"answer": "Ver good, thanks for asking"
 		},
 		{
-			"question": "\n                What's the best thing about Switzerland?\n              ",
-			"answer": "\n              I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.\n            "
+			"question": "                What's the best thing about Switzerland?              ",
+			"answer": "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat."
 		}
 	]
 }
