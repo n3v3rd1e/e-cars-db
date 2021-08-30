@@ -6,5 +6,6 @@
 			"name": "Rocník:"
 		}
 	],
-	"price": "250"
+	"price": "250",
+	"firstPhoto": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@6b8fff375f3af24aaaef6cf56d74a5fb8b24080a/images/profile_pic.png"
 }
