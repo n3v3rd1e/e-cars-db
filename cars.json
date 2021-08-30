@@ -3,7 +3,8 @@
 	"description": "Dost mega spicate auto",
 	"parameter": [
 		{
-			"name": "Rocnik:"
-		}
+			"name": "Rocník:"
+		},
+		{}
 	]
 }
