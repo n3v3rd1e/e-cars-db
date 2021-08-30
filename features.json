@@ -3,6 +3,10 @@
 		{
 			"name": "New thing",
 			"description": "My awesome description"
+		},
+		{
+			"name": "Additional feature",
+			"description": "Very nice thing"
 		}
 	]
 }
