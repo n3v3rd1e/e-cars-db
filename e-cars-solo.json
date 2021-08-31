@@ -61,8 +61,7 @@
 		"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, egestas tempus tellus etiam sed. Quam a scelerisque amet ullamcorper eu enim et fermentum, augue. Aliquet amet volutpat quisque ut interdum tincidunt duis."
 	},
 	"testimonials": [
-		{
-			"testimonial": [
+
 				{
 					"title": "https://tailwindui.com/img/logos/workcation-logo-indigo-600-mark-gray-800-and-indigo-600-text.svg",
 					"quote": "“Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo expedita voluptas culpa sapiente alias molestiae. Numquam corrupti in laborum sed rerum et corporis.”",
@@ -70,13 +69,7 @@
 					"name": "Judith Black",
 					"job": "CEO, Workcation"
 				}
-			],
-			"title": "",
-			"quote": "",
-			"imgUrl": "",
-			"name": "",
-			"job": ""
-		}
+
 	],
 	"contact": {
 		"title": "Get in touch",
