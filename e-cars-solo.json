@@ -40,7 +40,7 @@
 	"home": {
 		"title": "Elektromobily pre každého"
 	},
-	"steps": [
+	"steps": 
 		{
 			"title": "Vyberte vozidlo",
 			"article": [
@@ -56,10 +56,6 @@
 				}
 			]
 		},
-		{
-			"title": "Zvolte si čas"
-		}
-	],
 	"need": {
 		"title": "Elektromobil pre vas biznis",
 		"subtitle": "Potrebujete taxik alebo dodavku?",
