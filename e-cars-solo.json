@@ -90,7 +90,9 @@
 			}
 		],
 		"mt-4": [
-			{}
+			{
+				"link": "Vseobecne obchodne podmienky"
+			}
 		]
 	}
 }
