@@ -70,5 +70,20 @@
 				"job": "CEO, Workcation"
 			}
 		]
+	},
+	"contact": {
+		"title": "\n          Get in touch\n        ",
+		"content": "\n          Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat\n          massa dictumst amet. Sapien tortor lacus arcu.\n        ",
+		"phone": "+1 (555) 123-4567",
+		"email": "support@example.com"
+	},
+	"footer": {
+		"company": "\n              Company\n            ",
+		"info": "\n              Info\n            ",
+		"collection": [
+			{
+				"link": "Claim"
+			}
+		]
 	}
 }
