@@ -80,25 +80,5 @@
 		"content": "Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa dictumst amet. Sapien tortor lacus arcu.",
 		"phone": "+1 (555) 123-4567",
 		"email": "support@example.com"
-	},
-	"footer": {
-		"company": "Company",
-		"info": "Info",
-		"collection": [
-			{
-				"link": "#top"
-			}
-		],
-		"mt-4": [
-			{
-				"link": "Vseobecne obchodne podmienky"
-			},
-			{
-				"link": "FAQ"
-			},
-			{
-				"link": "Privacy policy"
-			}
-		]
 	}
 }
