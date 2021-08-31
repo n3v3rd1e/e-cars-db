@@ -12,5 +12,17 @@
 			"name": "Third thing",
 			"description": "Very amazing stuff"
 		}
-	]
+	],
+	"feature_1": {
+		"name": "Feature 1",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet necessitatibus modi tempore odit? Nesciunt molestias impedit tenetur id atque fugiat sed natus cumque quasi ipsam earum hic voluptates, praesentium est ad vitae? Fuga voluptas, aspernatur porro eaque sed corporis quidem?"
+	},
+	"feature_2": {
+		"name": "Feature 2",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet necessitatibus modi tempore odit? Nesciunt molestias impedit tenetur id atque fugiat sed natus cumque quasi ipsam earum hic voluptates, praesentium est ad vitae? Fuga voluptas, aspernatur porro eaque sed corporis quidem?"
+	},
+	"feature_3": {
+		"name": "Feature 3",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet necessitatibus modi tempore odit? Nesciunt molestias impedit tenetur id atque fugiat sed natus cumque quasi ipsam earum hic voluptates, praesentium est ad vitae? Fuga voluptas, aspernatur porro eaque sed corporis quidem?"
+	}
 }
