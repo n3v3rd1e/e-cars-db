@@ -1,0 +1,10 @@
+{
+	"title": "Ponuka vozidiel",
+	"car": [
+		{
+			"parameter": {
+				"name": "Rocnik:"
+			}
+		}
+	]
+}
