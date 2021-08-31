@@ -35,5 +35,10 @@
 			"price": "20"
 		}
 	],
-	"faq": []
+	"faq": [
+		{
+			"question": "What is the first question?",
+			"answer": "This one"
+		}
+	]
 }
