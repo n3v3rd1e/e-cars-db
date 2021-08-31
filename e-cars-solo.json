@@ -34,7 +34,13 @@
 	"faq": [
 		{
 			"question": "What is the first question?",
-			"answer": "This one"
+			"answer": "This one",
+			"opened": false
+		},
+		{
+			"opened": true,
+			"question": "My next question?",
+			"answer": "Nothing special"
 		}
 	],
 	"home": {
