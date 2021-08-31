@@ -40,5 +40,8 @@
 			"question": "What is the first question?",
 			"answer": "This one"
 		}
-	]
+	],
+	"home": {
+		"title": "Elektromobily pre kazdeho"
+	}
 }
