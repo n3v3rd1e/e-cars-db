@@ -7,38 +7,6 @@
 	"feature_1": {},
 	"feature_2": {},
 	"feature_3": {},
-	"car": [
-		[
-			{
-				"id": 8260364418,
-				"title": "Another title",
-				"year": {
-					"name": "Rocnik:"
-				},
-				"range": {
-					"name": "Dojazd:"
-				},
-				"power": {
-					"name": "Výkon:"
-				},
-				"mileage": {
-					"name": "Počet km:"
-				}
-			}
-		],
-		[
-			{
-				"id": 6117011646,
-				"title": "Nice title",
-				"year": {},
-				"range": {},
-				"power": {},
-				"mileage": {},
-				"firstPhoto": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@e61f07c47e3631c54bd4bdafd9708bf520fd35fe/images/profile_pic.png",
-				"description": "Vrmm vrrrrm autoo"
-			}
-		]
-	],
 	"faq": [
 		{
 			"question": "What is the first question?",
