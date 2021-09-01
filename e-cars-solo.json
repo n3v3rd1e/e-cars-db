@@ -11,7 +11,7 @@
 		{
 			"question": "What is the first question?",
 			"answer": "This one",
-			"opened": true
+			"opened": false
 		},
 		{
 			"opened": false,
