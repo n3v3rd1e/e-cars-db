@@ -8,34 +8,7 @@
 	"feature_2": {},
 	"feature_3": {},
 	"car": [
-		[
-			{
-				"firstPhoto": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@38b2652a76ee0f1982f56acd814f09ce0343df60/images/profile_pic.png",
-				"title": "First car",
-				"description": "Vrrm vrrm going fast",
-				"year": {
-					"name": "Rocnik:",
-					"value": "2016"
-				},
-				"range": {
-					"name": "Dojazd:",
-					"value": "52"
-				},
-				"power": {
-					"name": "Výkon:",
-					"value": "16kw"
-				},
-				"mileage": {
-					"name": "Počet km:",
-					"value": "19000km"
-				},
-				"price": "20",
-				"year.name": "Custom year",
-				"year/name": "New slash thing",
-				"id": "0_first-car"
-			},
-			"{ title: \\\"niceee\\\" }"
-		],
+		[],
 		[
 			{
 				"id": 6117011646,
@@ -52,34 +25,6 @@
 				"mileage": {
 					"name": ""
 				}
-			},
-			{
-				"id": 9727098947,
-				"year": {},
-				"range": {},
-				"power": {},
-				"mileage": {}
-			},
-			{
-				"id": 531115812,
-				"year": {},
-				"range": {},
-				"power": {},
-				"mileage": {}
-			},
-			{
-				"id": 4811707212,
-				"year": {},
-				"range": {},
-				"power": {},
-				"mileage": {}
-			},
-			{
-				"id": 815840225,
-				"year": {},
-				"range": {},
-				"power": {},
-				"mileage": {}
 			}
 		]
 	],
