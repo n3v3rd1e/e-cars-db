@@ -29,7 +29,8 @@
 				"value": "19000km"
 			},
 			"price": "20",
-			"year.name": "Custom year"
+			"year.name": "Custom year",
+			"year/name": "New slash thing"
 		},
 		{
 			"title": "Huehue",
