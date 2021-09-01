@@ -32,12 +32,6 @@
 			"year.name": "Custom year",
 			"year/name": "New slash thing",
 			"id": "0_first-car"
-		},
-		{
-			"year": {},
-			"range": {},
-			"power": {},
-			"mileage": {}
 		}
 	],
 	"faq": [
