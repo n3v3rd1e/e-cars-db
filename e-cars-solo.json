@@ -99,7 +99,7 @@
 			"mileage": {}
 		}
 	],
-	"p": {
+	"Person": {
 		"name": "Jane Doe",
 		"image": "janedoe.jpg",
 		"jobTitle": "Professor",
