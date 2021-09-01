@@ -28,7 +28,8 @@
 				"name": "Počet km:",
 				"value": "19000km"
 			},
-			"price": "20"
+			"price": "20",
+			"year.name": "Custom year"
 		},
 		{
 			"title": "Huehue",
