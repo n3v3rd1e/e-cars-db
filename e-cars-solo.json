@@ -84,6 +84,10 @@
 	"footer": {
 		"company": "\n            Company\n          ",
 		"facebook": "https://www.facebook.com/eCars.sk",
-		"instagram": "https://www.instagram.com/elektromobily_pre_kazdeho"
+		"instagram": "https://www.instagram.com/elektromobily_pre_kazdeho",
+		"adress": "#",
+		"dic": "#",
+		"ico": "#",
+		"icdph": "#"
 	}
 }
