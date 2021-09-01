@@ -34,7 +34,7 @@
 				"year/name": "New slash thing",
 				"id": "0_first-car"
 			},
-			"{ \"title\", \"niceee\" }"
+			"{ title: niceee }"
 		],
 		[
 			{
