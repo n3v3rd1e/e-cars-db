@@ -32,6 +32,14 @@
 			"year.name": "Custom year",
 			"year/name": "New slash thing",
 			"id": "0_first-car"
+		},
+		{
+			"id": 6117011646,
+			"title": "Nice title",
+			"year": {},
+			"range": {},
+			"power": {},
+			"mileage": {}
 		}
 	],
 	"faq": [
@@ -96,8 +104,6 @@
 		"pp": "#"
 	},
 	"feature_1/name": "yep, this is it",
-	"item": [
-		"Car"
-	],
-	"notSaved": "Nice"
+	"item": [],
+	"notSaved": ""
 }
