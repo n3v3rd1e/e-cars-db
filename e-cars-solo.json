@@ -30,7 +30,8 @@
 			},
 			"price": "20",
 			"year.name": "Custom year",
-			"year/name": "New slash thing"
+			"year/name": "New slash thing",
+			"id": "0_first-car"
 		},
 		{
 			"title": "Huehue",
@@ -39,7 +40,8 @@
 			},
 			"range": {},
 			"power": {},
-			"mileage": {}
+			"mileage": {},
+			"id": "1_huehue"
 		}
 	],
 	"faq": [
