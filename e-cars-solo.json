@@ -70,5 +70,33 @@
 	},
 	"feature_1/name": "yep, this is it",
 	"item": [],
-	"notSaved": "Something new?"
+	"notSaved": "Something new?",
+	"car": [
+		{
+			"id": 5480883515,
+			"firstPhoto": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@fbb503c541609e083616b8eaefe5036b11d70c5f/images/profile_pic.png",
+			"title": "First car",
+			"year": {
+				"name": "Rocnik:"
+			},
+			"range": {
+				"name": "Dojazd:"
+			},
+			"power": {
+				"name": "Výkon:"
+			},
+			"mileage": {
+				"name": "Počet km:"
+			}
+		},
+		{
+			"id": 3750523751,
+			"firstPhoto": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@09a72beb8e620d50866bbd291ceeea811993bef3/images/titans.png",
+			"title": "Another car",
+			"year": {},
+			"range": {},
+			"power": {},
+			"mileage": {}
+		}
+	]
 }
