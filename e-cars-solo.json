@@ -24,7 +24,8 @@
 				},
 				"mileage": {
 					"name": ""
-				}
+				},
+				"firstPhoto": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@e61f07c47e3631c54bd4bdafd9708bf520fd35fe/images/profile_pic.png"
 			}
 		]
 	],
