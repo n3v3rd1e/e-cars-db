@@ -47,12 +47,6 @@
 			"job": "\n                CEO, Workcation\n              "
 		}
 	],
-	"faq": [
-		{
-			"opened": false,
-			"answer": "\n              I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.\n            "
-		}
-	],
 	"contact": {
 		"title": "\n          Get in touch\n        ",
 		"content": "\n          Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat\n          massa dictumst amet. Sapien tortor lacus arcu.\n        ",
