@@ -72,5 +72,14 @@
 	},
 	"carsSection": {
 		"title": "\n        Top vozidlá\n      "
+	},
+	"faqs": {
+		"title": "\n        Frequently asked questions\n      ",
+		"faq": [
+			{
+				"opened": false,
+				"answer": "\n              I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.\n            "
+			}
+		]
 	}
 }
