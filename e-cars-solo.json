@@ -1,79 +1,16 @@
 {
-	"title": [
-		"Top vozidlá",
-		"Frequently asked questions",
-		"Často kladené otázky"
-	],
+	"home": {},
 	"feature_1": {},
 	"feature_2": {},
 	"feature_3": {},
-	"faq": [
-		{
-			"question": "What is the first question?",
-			"answer": "This one",
-			"opened": false
-		},
-		{
-			"opened": false,
-			"question": "My next question?",
-			"answer": "Nothing special"
-		}
+	"title": [
+		"\n        Top vozidlá\n      ",
+		"\n        Frequently asked questions\n      "
 	],
-	"home": {
-		"title": "Elektromobily pre každého"
-	},
-	"steps": {
-		"title": "Vyberte vozidlo",
-		"article": [
-			{
-				"title": "Vyberte vozidlo",
-				"content": "Blabla vozidlo",
-				"imgUrl": "https://images.unsplash.com/photo-1546913199-55e06682967e?ixlib=rb-1.2.1&auto=format&fit=crop&crop=focalpoint&fp-x=.735&fp-y=.55&w=1184&h=1376&q=80"
-			},
-			{
-				"title": "Zvolte si cas",
-				"content": "Mas cas?",
-				"imgUrl": "https://images.unsplash.com/photo-1546913199-55e06682967e?ixlib=rb-1.2.1&auto=format&fit=crop&crop=focalpoint&fp-x=.735&fp-y=.55&w=1184&h=1376&q=80"
-			}
-		]
-	},
-	"need": {
-		"title": "Elektromobil pre vas biznis",
-		"subtitle": "Potrebujete taxik alebo dodavku?",
-		"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, egestas tempus tellus etiam sed. Quam a scelerisque amet ullamcorper eu enim et fermentum, augue. Aliquet amet volutpat quisque ut interdum tincidunt duis."
-	},
-	"testimonials": [
-		{
-			"title": "https://tailwindui.com/img/logos/workcation-logo-indigo-600-mark-gray-800-and-indigo-600-text.svg",
-			"quote": "“Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo expedita voluptas culpa sapiente alias molestiae. Numquam corrupti in laborum sed rerum et corporis.”",
-			"imgUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
-			"name": "Judith Black",
-			"job": "CEO, Workcation"
-		}
-	],
-	"contact": {
-		"title": "Get in touch",
-		"content": "Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa dictumst amet. Sapien tortor lacus arcu.",
-		"phone": "+1 (555) 123-4567",
-		"email": "support@example.com"
-	},
-	"footer": {
-		"company": "\n            Company\n          ",
-		"facebook": "https://www.facebook.com/eCars.sk",
-		"instagram": "https://www.instagram.com/elektromobily_pre_kazdeho",
-		"adress": "#",
-		"dic": "#",
-		"ico": "#",
-		"icdph": "#",
-		"vop": "#",
-		"pp": "#"
-	},
-	"notSaved": "Something new?",
 	"car": [
 		{
-			"id": 5480883515,
-			"firstPhoto": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@fbb503c541609e083616b8eaefe5036b11d70c5f/images/profile_pic.png",
-			"title": "First car",
+			"id": 9756033444,
+			"title": "Title",
 			"year": {
 				"name": "Rocnik:"
 			},
@@ -86,15 +23,49 @@
 			"mileage": {
 				"name": "Počet km:"
 			}
-		},
-		{
-			"id": 3750523751,
-			"firstPhoto": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@09a72beb8e620d50866bbd291ceeea811993bef3/images/titans.png",
-			"title": "Another car",
-			"year": {},
-			"range": {},
-			"power": {},
-			"mileage": {}
 		}
 	],
+	"steps": {
+		"title": "\n    Ako to funguje\n  ",
+		"article": [
+			{}
+		]
+	},
+	"need": {
+		"title": "\n        Award winning support\n      ",
+		"subtitle": "\n        We’re here to help\n      ",
+		"content": "\n        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et,\n        egestas tempus tellus etiam sed. Quam a scelerisque amet\n        ullamcorper eu enim et fermentum, augue. Aliquet amet volutpat\n        quisque ut interdum tincidunt duis.\n      "
+	},
+	"testimonials": [
+		{
+			"title": "https://tailwindui.com/img/logos/workcation-logo-indigo-600-mark-gray-800-and-indigo-600-text.svg",
+			"quote": "\n            “Lorem ipsum dolor sit amet consectetur adipisicing\n            elit. Nemo expedita voluptas culpa sapiente alias molestiae.\n            Numquam corrupti in laborum sed rerum et corporis.”\n          ",
+			"imgUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+			"name": "\n                Judith Black\n              ",
+			"job": "\n                CEO, Workcation\n              "
+		}
+	],
+	"faq": [
+		{
+			"opened": false,
+			"answer": "\n              I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.\n            "
+		}
+	],
+	"contact": {
+		"title": "\n          Get in touch\n        ",
+		"content": "\n          Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat\n          massa dictumst amet. Sapien tortor lacus arcu.\n        ",
+		"phone": "+1 (555) 123-4567",
+		"email": "support@example.com"
+	},
+	"footer": {
+		"company": "#",
+		"adress": "#",
+		"dic": "#",
+		"ico": "#",
+		"icdph": "#",
+		"vop": "#",
+		"pp": "#",
+		"facebook": "#",
+		"instagram": "#"
+	}
 }
