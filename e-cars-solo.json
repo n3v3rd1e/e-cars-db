@@ -1,6 +1,6 @@
 {
 	"home": {
-		"title": "Elektromobily pre kazdého"
+		"title": "Elektromobily pre každého"
 	},
 	"feature_1": {},
 	"feature_2": {},
@@ -30,15 +30,15 @@
 		}
 	],
 	"steps": {
-		"title": "\n    Ako to funguje\n  ",
+		"title": "Ako to funguje",
 		"article": [
 			{}
 		]
 	},
 	"need": {
-		"title": "\n        Award winning support\n      ",
-		"subtitle": "\n        We’re here to help\n      ",
-		"content": "\n        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et,\n        egestas tempus tellus etiam sed. Quam a scelerisque amet\n        ullamcorper eu enim et fermentum, augue. Aliquet amet volutpat\n        quisque ut interdum tincidunt duis.\n      "
+		"title": "Award winning support",
+		"subtitle": "We’re here to help",
+		"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, egestas tempus tellus etiam sed. Quam a scelerisque amet ullamcorper eu enim et fermentum, augue. Aliquet amet volutpat quisque ut interdum tincidunt duis."
 	},
 	"testimonials": [
 		{
@@ -50,8 +50,8 @@
 		}
 	],
 	"contact": {
-		"title": "\n          Get in touch\n        ",
-		"content": "\n          Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat\n          massa dictumst amet. Sapien tortor lacus arcu.\n        ",
+		"title": "Get in touch",
+		"content": "Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa dictumst amet. Sapien tortor lacus arcu.",
 		"phone": "+1 (555) 123-4567",
 		"email": "support@example.com"
 	},
@@ -67,10 +67,10 @@
 		"instagram": "#"
 	},
 	"carsSection": {
-		"title": "\n        Top vozidlá\n      "
+		"title": "Top vozidlá"
 	},
 	"faqs": {
-		"title": "\n        Frequently asked questions\n      ",
+		"title": "Frequently asked questions",
 		"faq": [
 			{
 				"opened": true,
