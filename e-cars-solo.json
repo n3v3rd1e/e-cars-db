@@ -55,6 +55,33 @@
 			"range": {},
 			"power": {},
 			"mileage": {}
+		},
+		{
+			"id": 949440003,
+			"firstPhoto": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@4963308fc3b52e3d2ec763b91964f0bf580ce460/images/gaugan_input.png",
+			"title": "Third",
+			"year": {},
+			"range": {},
+			"power": {},
+			"mileage": {}
+		},
+		{
+			"id": 9901272429,
+			"firstPhoto": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@6c731e342394d1ac6b8db969f4b680cecaa40fb4/images/gaugan_input.png",
+			"title": "Fourth",
+			"year": {},
+			"range": {},
+			"power": {},
+			"mileage": {}
+		},
+		{
+			"id": 2177103546,
+			"firstPhoto": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@84f2d6c3f96194589ba01681a8320e740ff2dcc5/images/profile_pic.png",
+			"title": "Fifth",
+			"year": {},
+			"range": {},
+			"power": {},
+			"mileage": {}
 		}
 	],
 	"steps": {
@@ -106,5 +133,6 @@
 				"question": "What’s the best thing about Switzerland?"
 			}
 		]
-	}
+	},
+	"currentUrl": "http://localhost:3000/"
 }
