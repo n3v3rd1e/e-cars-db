@@ -69,5 +69,8 @@
 		"pp": "#",
 		"facebook": "#",
 		"instagram": "#"
+	},
+	"carsSection": {
+		"title": "\n        Top vozidlá\n      "
 	}
 }
