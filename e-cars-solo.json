@@ -9,20 +9,6 @@
 		"\n        Top vozidlá\n      ",
 		"\n        Frequently asked questions\n      "
 	],
-	"carRentalPrices": [
-		{
-			"days": "1-5 dní",
-			"price": "30€ / deň"
-		},
-		{
-			"days": "6-14 dní",
-			"price": "25€ / deň"
-		},
-		{
-			"days": "15+ dní",
-			"price": "20€ / deň"
-		},
-	],
 	"car": [
 		{
 			"id": 9756033444,
