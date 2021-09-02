@@ -46,6 +46,15 @@
 			"firstPhoto": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@a62721864ac021de099a37b4b49b4a0e5463bee2/images/profile_pic.png",
 			"price": "20",
 			"description": "Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa dictumst amet. Sapien tortor lacus arcu."
+		},
+		{
+			"id": 6880620358,
+			"firstPhoto": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@d46cb39da9c36c20439535e08c2ace5294b116f4/images/profile_pic.png",
+			"title": "Next gen auto",
+			"year": {},
+			"range": {},
+			"power": {},
+			"mileage": {}
 		}
 	],
 	"steps": {
