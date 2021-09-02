@@ -25,7 +25,8 @@
 			"mileage": {
 				"name": "Počet km:"
 			},
-			"firstPhoto": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@a62721864ac021de099a37b4b49b4a0e5463bee2/images/profile_pic.png"
+			"firstPhoto": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@a62721864ac021de099a37b4b49b4a0e5463bee2/images/profile_pic.png",
+			"price": "20"
 		}
 	],
 	"steps": {
