@@ -12,15 +12,15 @@
 	"carRentalPrices": [
 		{
 			"days": "1-5 dní",
-			"price: "30€ / deň"
+			"price: "30€ \/ deň"
 		},
 		{
 			"days": "6-14 dní",
-			"price: "25€ / deň"
+			"price: "25€ \/ deň"
 		},
 		{
 			"days": "15+ dní",
-			"price: "20€ / deň"
+			"price: "20€ \/ deň"
 		},
 	],
 	"car": [
