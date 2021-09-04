@@ -109,6 +109,12 @@
 			"imgUrl": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@fcace7777d48da4877b302115303930fc9e70e95/images/profile_pic.png",
 			"name": "Fero",
 			"job": "Magician"
+		},
+		{
+			"title": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@046e0bdf0a2c9a124b0fb36afa8f5f206dbff493/images/pozadie.png",
+			"quote": "\"Amazing cars, really vrrm vrrmm\"",
+			"name": "Average Joe",
+			"job": "Driver"
 		}
 	],
 	"contact": {
@@ -140,5 +146,7 @@
 				"question": "What’s the best thing about Switzerland?"
 			}
 		]
-	}
+	},
+	"carListIndex": "0",
+	"testimonialsIndex": 2
 }
