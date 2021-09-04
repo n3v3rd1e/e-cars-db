@@ -98,10 +98,17 @@
 	"testimonials": [
 		{
 			"title": "https://tailwindui.com/img/logos/workcation-logo-indigo-600-mark-gray-800-and-indigo-600-text.svg",
-			"quote": "\n            “Lorem ipsum dolor sit amet consectetur adipisicing\n            elit. Nemo expedita voluptas culpa sapiente alias molestiae.\n            Numquam corrupti in laborum sed rerum et corporis.”\n          ",
+			"quote": "“Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo expedita voluptas culpa sapiente alias molestiae. Numquam corrupti in laborum sed rerum et corporis.”",
 			"imgUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
-			"name": "\n                Judith Black\n              ",
-			"job": "\n                CEO, Workcation\n              "
+			"name": "Judith Black",
+			"job": "CEO, Workcation"
+		},
+		{
+			"title": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@1859235230f19ee7a15d900b786242f2e4ef2fd9/images/titans.png",
+			"quote": "\"This is my awesome description.\"",
+			"imgUrl": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@fcace7777d48da4877b302115303930fc9e70e95/images/profile_pic.png",
+			"name": "Fero",
+			"job": "Magician"
 		}
 	],
 	"contact": {
@@ -128,11 +135,12 @@
 		"title": "Frequently asked questions",
 		"faq": [
 			{
-				"opened": true,
+				"opened": false,
 				"answer": "\n              I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.\n            ",
 				"question": "What’s the best thing about Switzerland?"
 			}
 		]
 	},
-	"currentUrl": "http://localhost:3000/"
+	"currentUrl": "http://localhost:3000/",
+	"index": "0"
 }
