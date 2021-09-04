@@ -114,7 +114,8 @@
 			"title": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@046e0bdf0a2c9a124b0fb36afa8f5f206dbff493/images/pozadie.png",
 			"quote": "\"Amazing cars, really vrrm vrrmm\"",
 			"name": "Average Joe",
-			"job": "Driver"
+			"job": "Driver",
+			"imgUrl": "https://cdn.jsdelivr.net/gh/n3v3rd1e/e-cars-db@6a96cbf85e21e0532b450a236b9b0ad2dab3d880/images/profile_pic.png"
 		}
 	],
 	"contact": {
@@ -148,5 +149,5 @@
 		]
 	},
 	"carListIndex": "0",
-	"testimonialsIndex": 2
+	"testimonialsIndex": 8
 }
