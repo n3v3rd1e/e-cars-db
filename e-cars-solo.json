@@ -4,7 +4,9 @@
 	},
 	"feature_1": {},
 	"feature_2": {},
-	"feature_3": {},
+	"feature_3": {
+		"name": "Huehue"
+	},
 	"title": [
 		"\n        Top vozidlá\n      ",
 		"\n        Frequently asked questions\n      "
